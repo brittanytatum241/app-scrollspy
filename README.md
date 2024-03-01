@@ -1,19 +1,16 @@
 # Simple Scrollspy
 
-[![NPM version](https://img.shields.io/npm/v/simple-scrollspy.svg)](https://www.npmjs.com/package/simple-scrollspy)
+ is a lightweight javascript library without jQuery, no dependencies. It is used to make scrollspy effect for your menu, table of contents, etc. Only 1.4Kb.
 
-[Simple scrollspy](https://kimyvgy.github.io/simple-scrollspy) is a lightweight javascript library without jQuery, no dependencies. It is used to make scrollspy effect for your menu, table of contents, etc. Only 1.4Kb.
-
-This is a [scrollspy demo](https://kimyvgy.github.io/simple-scrollspy/demo) for my menu in the navigation bar.
 
 ## Install
 
 ### Using NPM package
 
-Install NPM package - https://www.npmjs.com/package/simple-scrollspy:
+Install NPM package - https://www.npmjs.com/package/app-scrollspy:
 
 ```npm
-npm install simple-scrollspy
+npm install app-scrollspy
 ```
 
 ### Using CDNjs
@@ -29,7 +26,7 @@ The `simple-scrollspy` is already on CDNjs. Therefore, you can:
 
 ### Using `simple-scrollspy.min.js` file
 
-You can download `simple-scrollspy.min.js` file on each release. Please check [the latest version](https://github.com/kimyvgy/simple-scrollspy/releases/latest).
+You can download `simple-scrollspy.min.js` file on each release. Please check [the latest version](https://github.com/brittanytatum241/app-scrollspy/releases/latest).
 
 ```html
 <script src="/path/to/dist/simple-scrollspy.min.js"></script>
@@ -159,18 +156,11 @@ The `dist` folder is automatically created and includes the file `simple-scrolls
 - Feel free to make a pull request if you can, and create a Github Issue if you come across one.
 - Don't forget to give it a star if you feel that the library is helpful to you. It may save somebody a lot of trouble someday.
 
-## Support / Donate
-
-<p align="center">
-  <a href="https://kimyvgy.webee.asia" target="_blank" title="Donate with: Paypal, Momo, Buymeacoffee">
-    <img src="https://user-images.githubusercontent.com/13513658/208368616-f20301e6-61d5-449b-aa87-5dda17b273b7.png">
-  </a>
-</p>
 
 ## Helpful links
-- [Documentation](https://kimyvgy.github.io/simple-scrollspy)
-- [Example](https://kimyvgy.github.io/simple-scrollspy/demo)
-- [See on NPM package](https://www.npmjs.com/package/simple-scrollspy)
+- [Documentation](https://github.com/brittanytatum241/app-scrollspy)
+
+- [See on NPM package](https://www.npmjs.com/package/app-scrollspy)
 
 ## Licence
 [MIT](./LICENSE)
